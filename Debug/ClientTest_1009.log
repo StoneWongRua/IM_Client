@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\15845\source\repos\clienttest_1009\clienttest_1009\main.cpp(17): warning C4101: “xServer”: 未引用的局部变量
+  ClientTest_1009.vcxproj -> C:\Users\15845\source\repos\ClientTest_1009\Debug\ClientTest_1009.exe
